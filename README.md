@@ -1,4 +1,4 @@
-[My Leetcode Profile:](https://leetcode.com/u/Chillz/)
+[My Leetcode Profile](https://leetcode.com/u/Chillz/)
 
 # LeetCode Solutions (Jupyter Notebooks)
 
